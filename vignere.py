@@ -18,7 +18,7 @@ def banner():
     print(custom_fig.renderText('Vigenere Cipher'))
     print("version 0.1.0")
     print("by: @VulnHound")
-    print("\n" * 8)
+    print("\n" * 6)
 
 
 # User Selection Function
