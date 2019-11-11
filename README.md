@@ -12,4 +12,6 @@ Installation:
               
               pip install -r requirements.txt
               
+              python vigenere.py
+              
 Have Fun!
